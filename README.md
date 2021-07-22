@@ -153,7 +153,7 @@ Tabla 5.1. Valores del Circuito Equivalente de Thévenin
   
 Tabla 5.2. Comprobación del Teorema de Thévenin.
   
-|**PARÁMETRO ELÉCTRICO**|| **CIRCUITO ELÉCTRICO** | | **CIRCUITO EQUIVALENTE DE THÉVENIN** ||
+|**PARÁMETRO ELÉCTRICO**| **CIRCUITO ELÉCTRICO** | | **CIRCUITO EQUIVALENTE DE THÉVENIN** ||
 |     :---:    |   :---:   |     :---:     |   :---:       |    :---:    |  
 |              | Calculado |     Medido    |   Calculado   |   Medido    |   
 |  Voltaje (V) |           |               |               |             |  
