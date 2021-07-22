@@ -96,6 +96,7 @@ Seleccionamos los materiales para proceder armar el circuito.
 
 <div align="center">
 
+![image](https://user-images.githubusercontent.com/84430867/126660652-6724e45b-5b9d-495a-a591-32cbc3e0bdc1.png)
 
 </div>
 
@@ -103,6 +104,7 @@ Colocamos las resistencias al Protoboard siguiendo el diagrama espermático dado
 
 <div align="center">
 
+![image](https://user-images.githubusercontent.com/84430867/126661089-4018068c-3e93-4273-ace3-f011863fa549.png)
 
 </div>
 
