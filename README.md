@@ -194,4 +194,8 @@ conclusiones.**
 
 ANÁLISIS DE CIRCUITOS Y SISTEMAS LINEALES. (s.f.). Obtenido de https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_07.htm
 
+ECURED. (22 de 11 de 2013). Obtenido de Teorema de Thévenin: https://www.ecured.cu/Teorema_de_Th%C3%A9venin
+
+Veloso, C. (25 de 05 de 2017). Obtenido de TEOREMA DE THÉVENIN – CIRCUITO EQUIVALENTE: https://www.electrontools.com/Home/WP/teorema-de-thevenin-circuito-equivalente/
+
 
