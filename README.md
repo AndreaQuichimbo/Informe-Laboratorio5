@@ -112,7 +112,7 @@ Interconectamos las resistencias en el Protoboard siguiendo el circuito dado.
 
 <div align="center">
 
-
+![image](https://user-images.githubusercontent.com/84430867/126932226-5017a55d-6fa4-4b2c-8738-d23c0f34758f.png)
 
 </div>
 
@@ -120,8 +120,8 @@ Conectamos el Protoboard a la fuente de alimentación (rojo+,negro -)e iniciamos
 
 <div align="center">
 
-
-  
+![image](https://user-images.githubusercontent.com/84430867/126932554-57636826-7c6b-4813-b1de-f5771894b01c.png)
+ 
 </div>
 
 **4.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor
