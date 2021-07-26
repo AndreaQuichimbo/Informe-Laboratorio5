@@ -147,6 +147,8 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.**
  
 <div align="center">
 
+![image](https://user-images.githubusercontent.com/84430867/126935783-44f48279-2c52-4f93-b09d-01af3f345861.png)
+
 Tabla 5.1. Valores del Circuito Equivalente de Thévenin
      
 |  VTH (V)  |        |     RTH (Ω)   |           |
