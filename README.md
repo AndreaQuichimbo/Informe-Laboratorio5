@@ -129,14 +129,16 @@ medido en la tabla 5.1.**
 
 <div align="center">
   
-
-  
+![image](https://user-images.githubusercontent.com/84430867/126933172-484b9561-1913-4b98-bef9-5767a9c1aa15.png)
+ 
 </div>
 
 **4.5.4. Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
 abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.**
 
 <div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/126933314-763785a3-bd41-4bcc-a633-c63b006f7dcf.png)
 
 </div>
 
