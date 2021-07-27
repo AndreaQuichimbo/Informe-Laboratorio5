@@ -138,7 +138,7 @@ abierto resultante mida la resistencia equivalente. Anote el valor medido en la 
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84587293/127079986-061ce128-7bef-4cc1-8f22-be8667936c65.png)
+![image](https://user-images.githubusercontent.com/84430867/127095126-bdf468eb-f513-4302-b6eb-7484ca6733de.png)
 
 </div>
 
@@ -197,7 +197,7 @@ conclusiones.**
 
 ![2](https://user-images.githubusercontent.com/84587172/127094811-2a83ebcd-6230-4120-8437-221c67fd10a7.png)
 
-![10](https://user-images.githubusercontent.com/84587172/127095076-361aab45-9119-49c0-89b7-bd3a6fc00805.png)
+![3](https://user-images.githubusercontent.com/84587172/127094820-51132bd8-a2fd-486d-bf4b-d99e75f1fd56.png)
 
 ![4](https://user-images.githubusercontent.com/84587172/127094827-1e548aae-9c18-464e-82db-e0101342be3b.png)
 
