@@ -151,18 +151,18 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.**
   
 Tabla 5.1. Valores del Circuito Equivalente de Thévenin
      
-|  VTH (V)  |        |     RTH (Ω)   |           |
-|    :---:  |  :---: |     :---:     |   :---:   |    
-| Calculado |        |   Calculado   |           |  
-|   Medido  |  5.06      |     Medido    |   299 Ω        |   
+|  VTH (V)  |            |     RTH (Ω)   |           |
+|    :---:  |    :---:   |     :---:     |   :---:   |    
+| Calculado |  5.05 V    |   Calculado   | 298.85 Ω  |  
+|   Medido  |  5.06 V    |     Medido    |   299 Ω   |   
   
 Tabla 5.2. Comprobación del Teorema de Thévenin.
   
 |**PARÁMETRO ELÉCTRICO**| **CIRCUITO ELÉCTRICO** | | **CIRCUITO EQUIVALENTE DE THÉVENIN** ||
 |     :---:    |   :---:   |     :---:     |   :---:       |    :---:    |  
 |              | Calculado |     Medido    |   Calculado   |   Medido    |   
-|  Voltaje (V) |           |       3.89 v        |               |    3.89 v         |  
-|Corriente (mA)|           |        3.89 mA       |               |    3.89 mA         |
+|  Voltaje (V) |  3.84 V   |     3.89 V    |    3.88 V     |   3.89 v    |  
+|Corriente (mA)|  3.84 mA  |    3.89 mA    |    3.88 mA    |   3.89 mA   |
 
 </div>
 
