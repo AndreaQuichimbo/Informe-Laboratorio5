@@ -57,7 +57,7 @@ El hallazgo de esta idea data para el año1853. Fue el científico alemán Hermm
 
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/84430867/126600585-981f6fef-3cfe-42e4-bed6-649f40160e81.png)
+![image](https://user-images.githubusercontent.com/84430867/127091201-c6fa2ec1-d94c-47a3-9ee8-9186b49b899e.png)
 
 </div>
 
