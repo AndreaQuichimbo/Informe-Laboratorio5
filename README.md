@@ -193,6 +193,24 @@ conclusiones.**
 
 ![8](https://user-images.githubusercontent.com/84587172/127082255-d1f194e5-b939-44a9-a365-a5eacd6eedd7.png)
   
+![1](https://user-images.githubusercontent.com/84587172/127094806-111c26d6-166a-4523-b69b-d840c85d2f76.png)
+
+![2](https://user-images.githubusercontent.com/84587172/127094811-2a83ebcd-6230-4120-8437-221c67fd10a7.png)
+
+![3](https://user-images.githubusercontent.com/84587172/127094820-51132bd8-a2fd-486d-bf4b-d99e75f1fd56.png)
+
+![4](https://user-images.githubusercontent.com/84587172/127094827-1e548aae-9c18-464e-82db-e0101342be3b.png)
+
+![5](https://user-images.githubusercontent.com/84587172/127094832-1b59dab3-c91b-46be-8130-c17a347d5453.png)
+
+![6](https://user-images.githubusercontent.com/84587172/127094835-d9ce4db7-b315-4d48-9727-b851b29f6b41.png)
+
+![7](https://user-images.githubusercontent.com/84587172/127094843-2cd1c44a-bc62-45f4-ade5-4e76517533cb.png)
+
+![8](https://user-images.githubusercontent.com/84587172/127094857-290ae6fd-bbba-4dc5-bb03-197a2dfdfeb3.png)
+
+![9](https://user-images.githubusercontent.com/84587172/127094861-1965bf68-09f8-4091-ab1c-28576fd2b22d.png)
+  
   
 </div>
 
