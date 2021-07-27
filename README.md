@@ -148,9 +148,6 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.**
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587293/127081283-f27dcc7d-163f-42f9-aeae-0412a16e3159.png)
-
-![1](https://user-images.githubusercontent.com/84587172/127082015-ae4fe398-80f4-40ba-882b-73c097bd87ab.png)
-  
   
 </div>
   
@@ -180,6 +177,7 @@ conclusiones.**
 
 <div align="center">
   
+![1](https://user-images.githubusercontent.com/84587172/127082076-45173429-3304-4750-8963-866234beab39.png)
 
 
 </div>
