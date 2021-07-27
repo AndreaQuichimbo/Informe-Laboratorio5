@@ -191,6 +191,8 @@ conclusiones.**
 
   ![7](https://user-images.githubusercontent.com/84587172/127082231-5d99f79f-915d-4fe9-b5fc-178d5a570bed.png)
 
+![8](https://user-images.githubusercontent.com/84587172/127082255-d1f194e5-b939-44a9-a365-a5eacd6eedd7.png)
+  
   
 </div>
 
