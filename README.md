@@ -183,6 +183,7 @@ conclusiones.**
 
 ![3](https://user-images.githubusercontent.com/84587172/127082133-eef24638-7c0d-4a56-8d82-0fe8c0dc4322.png)
   
+![4](https://user-images.githubusercontent.com/84587172/127082166-36e2a516-fca3-45d0-921b-9fc033e8b5c0.png)
 
   
 </div>
