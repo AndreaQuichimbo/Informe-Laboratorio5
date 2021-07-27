@@ -147,8 +147,7 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.**
  
 <div align="center">
 
-![2021-07-26 20_07_53-Circuit design Glorious Uusam _ Tinkercad](https://user-images.githubusercontent.com/84587293/127080069-e411947b-52d6-4c99-aff9-473d729a4e7c.png)
-
+![image](https://user-images.githubusercontent.com/84587293/127081283-f27dcc7d-163f-42f9-aeae-0412a16e3159.png)
   
 Tabla 5.1. Valores del Circuito Equivalente de Thévenin
      
