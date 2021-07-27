@@ -164,8 +164,8 @@ Tabla 5.2. Comprobación del Teorema de Thévenin.
 |**PARÁMETRO ELÉCTRICO**| **CIRCUITO ELÉCTRICO** | | **CIRCUITO EQUIVALENTE DE THÉVENIN** ||
 |     :---:    |   :---:   |     :---:     |   :---:       |    :---:    |  
 |              | Calculado |     Medido    |   Calculado   |   Medido    |   
-|  Voltaje (V) |           |               |               |             |  
-|Corriente (mA)|           |               |               |             |
+|  Voltaje (V) |           |       3.89 v        |               |    3.89 v         |  
+|Corriente (mA)|           |        3.89 mA       |               |    3.89 mA         |
 
 </div>
 
