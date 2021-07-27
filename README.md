@@ -181,7 +181,10 @@ conclusiones.**
 
 ![2](https://user-images.githubusercontent.com/84587172/127082110-26835ef5-7d4b-4c49-9113-946a75008190.png)
 
+![3](https://user-images.githubusercontent.com/84587172/127082133-eef24638-7c0d-4a56-8d82-0fe8c0dc4322.png)
+  
 
+  
 </div>
 
 **Cálculo del Error**
