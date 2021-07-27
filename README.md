@@ -157,7 +157,7 @@ Tabla 5.1. Valores del Circuito Equivalente de Thévenin
 |  VTH (V)  |        |     RTH (Ω)   |           |
 |    :---:  |  :---: |     :---:     |   :---:   |    
 | Calculado |        |   Calculado   |           |  
-|   Medido  |        |     Medido    |           |   
+|   Medido  |  5.06      |     Medido    |   299 Ω        |   
   
 Tabla 5.2. Comprobación del Teorema de Thévenin.
   
