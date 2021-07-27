@@ -138,7 +138,7 @@ abierto resultante mida la resistencia equivalente. Anote el valor medido en la 
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84587293/127079730-5f1b462f-e6fb-47e3-9895-6a0f538b8284.png)
+![image](https://user-images.githubusercontent.com/84587293/127079986-061ce128-7bef-4cc1-8f22-be8667936c65.png)
 
 </div>
 
